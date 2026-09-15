@@ -34,5 +34,9 @@ I'm also making a retro game with Python and Pyxel :D
 
 https://github.com/user-attachments/assets/777d6dce-76ed-4bc5-9fa3-2261c9b7b5d2
 
+##
+landscape pixel art made by Eva Kuus
+
+
 
 
